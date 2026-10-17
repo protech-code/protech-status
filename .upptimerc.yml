@@ -15,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Protech Status
-  introTitle: "Copyright 2026 © by **Protech Group**."
+  introTitle: "**Protech Group** Status."
   introMessage: This is a status page for Protech Group. 
   navbar:
     - title: Status
