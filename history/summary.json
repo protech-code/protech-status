@@ -5,17 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/protechvn.io.vn.ico",
     "slug": "protech-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1800,
-    "timeDay": 1800,
-    "timeWeek": 1800,
-    "timeMonth": 1800,
-    "timeYear": 1800,
-    "dailyMinutesDown": {}
+    "uptime": "38.28%",
+    "uptimeDay": "38.28%",
+    "uptimeWeek": "38.28%",
+    "uptimeMonth": "38.28%",
+    "uptimeYear": "38.28%",
+    "time": 1378,
+    "timeDay": 1378,
+    "timeWeek": 1378,
+    "timeMonth": 1378,
+    "timeYear": 1378,
+    "dailyMinutesDown": {
+      "2026-10-18": 152,
+      "2026-10-17": 439
+    }
   },
   {
     "name": "Tino",
@@ -28,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1859,
-    "timeDay": 1859,
-    "timeWeek": 1859,
-    "timeMonth": 1859,
-    "timeYear": 1859,
+    "time": 1834,
+    "timeDay": 1834,
+    "timeWeek": 1834,
+    "timeMonth": 1834,
+    "timeYear": 1834,
     "dailyMinutesDown": {}
   }
 ]
