@@ -13,10 +13,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.protechvn.io.vn
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/protech-code/.github/refs/heads/main/Protech_logo-removebg.png
   name: Protech Status
   introTitle: "**Protech Group** Status."
-  introMessage: This is a status page for Protech Group. 
+  introMessage: This is a status page for Protech Group, if status is down, report to protech
   navbar:
     - title: Status
       href: /
