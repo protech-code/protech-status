@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/protechvn.io.vn.ico",
     "slug": "protech-website",
     "status": "up",
-    "uptime": "94.96%",
+    "uptime": "95.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.96%",
-    "uptimeYear": "94.96%",
+    "uptimeMonth": "95.15%",
+    "uptimeYear": "95.15%",
     "time": 2691,
     "timeDay": 2684,
     "timeWeek": 2794,
@@ -25,19 +25,20 @@
     "url": "https://tino.io.vn",
     "icon": "https://icons.duckduckgo.com/ip3/tino.io.vn.ico",
     "slug": "tino",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.43%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.37%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "98.43%",
     "time": 1743,
     "timeDay": 1600,
     "timeWeek": 1647,
     "timeMonth": 1743,
     "timeYear": 1743,
     "dailyMinutesDown": {
-      "2026-10-22": 298
+      "2026-10-22": 298,
+      "2026-10-30": 0
     }
   }
 ]
