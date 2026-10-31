@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/protechvn.io.vn.ico",
     "slug": "protech-website",
     "status": "up",
-    "uptime": "95.15%",
+    "uptime": "95.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.15%",
-    "uptimeYear": "95.15%",
-    "time": 2691,
-    "timeDay": 2684,
-    "timeWeek": 2794,
-    "timeMonth": 2691,
-    "timeYear": 2691,
+    "uptimeMonth": "95.33%",
+    "uptimeYear": "95.33%",
+    "time": 2667,
+    "timeDay": 2239,
+    "timeWeek": 2695,
+    "timeMonth": 2667,
+    "timeYear": 2667,
     "dailyMinutesDown": {
       "2026-10-18": 484,
       "2026-10-17": 439
@@ -26,19 +26,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/tino.io.vn.ico",
     "slug": "tino",
     "status": "down",
-    "uptime": "98.43%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "98.43%",
+    "uptime": "94.82%",
+    "uptimeDay": "49.61%",
+    "uptimeWeek": "92.80%",
+    "uptimeMonth": "94.82%",
+    "uptimeYear": "94.82%",
     "time": 1743,
-    "timeDay": 1600,
-    "timeWeek": 1647,
+    "timeDay": 0,
+    "timeWeek": 1628,
     "timeMonth": 1743,
     "timeYear": 1743,
     "dailyMinutesDown": {
       "2026-10-22": 298,
-      "2026-10-30": 0
+      "2026-10-31": 219,
+      "2026-10-30": 507
     }
   }
 ]
